@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&width=435&lines=ETA%3A+when+hedgehogs+fly...(i.e.%2C+probably+never...))](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntiFreeze81&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntiFreeze81&show_icons=true&theme=radical) -->
 
-<!--
+
 **unKILLableBRIAR/unKILLableBRIAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
