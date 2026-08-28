@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=0:4169e1,100:cc8899&height=300&section=header&text=Hi%20there👋%20It's%20me!&fontSize=90&fontColor=f2f2f2)
 
 <a href="https://www.instagram.com/jh_ok00/" target="_blank"><img src="https://img.shields.io/badge/jh__ok00-FF69B4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
-<a href="https://antifreeze0081.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-EA5628?style=for-the-badge&logo=tistory&logoColor=white">
-</a>
+<a href="https://antifreeze0081.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EA5628?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="https://youtu.be/zRZHpWxCcYs?si=9ZVFTBO58Uczh1jN" target="_blank"><img src="https://img.shields.io/badge/SUMMARYZING MY CODE-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF"/></a>
 
 <h2 align="center">🛠️Currently Using🛠️</h2>
 <p align="center">
