@@ -2,7 +2,7 @@
 
 <a href="https://www.instagram.com/jh_ok00/" target="_blank"><img src="https://img.shields.io/badge/jh__ok00-FF69B4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://antifreeze0081.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EA5628?style=for-the-badge&logo=tistory&logoColor=white"></a>
-<a href="https://youtu.be/zRZHpWxCcYs?si=9ZVFTBO58Uczh1jN" target="_blank"><img src="https://img.shields.io/badge/SUMMARYZING MY CODE-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF"/></a>
+<a href="https://youtu.be/syOmT1u6jZ8?si=zq-tH3wFuFnNr0kb" target="_blank"><img src="https://img.shields.io/badge/SUMMARYZING MY CODE-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF"/></a>
 
 <h2 align="center">🛠️Currently Using🛠️</h2>
 <p align="center">
